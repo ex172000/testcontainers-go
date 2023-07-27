@@ -1,6 +1,7 @@
 # Testcontainers
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=141451032&machine=standardLinux32gb&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=EastUs)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fex172000%2Ftestcontainers-go.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fex172000%2Ftestcontainers-go?ref=badge_shield)
 
 [![Main pipeline](https://github.com/testcontainers/testcontainers-go/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/testcontainers/testcontainers-go/actions/workflows/ci.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/testcontainers/testcontainers-go)](https://goreportcard.com/report/github.com/testcontainers/testcontainers-go)
@@ -15,3 +16,7 @@ You can find more information about _Testcontainers for Go_ at [golang.testconta
 ## Using _Testcontainers for Go_
 
 Please visit [the quickstart guide](https://golang.testcontainers.org/quickstart) to understand how to add the dependency to your Go project.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fex172000%2Ftestcontainers-go.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fex172000%2Ftestcontainers-go?ref=badge_large)
